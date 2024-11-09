@@ -12,7 +12,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.exceptions import MessageToDeleteNotFound
 
 # Initialize bot and dispatcher
-bot_token = '1234567890:AAGNaKh6J5jrK4og9FWkiGR1jifbZjTniik'  # Replace with your bot's token
+bot_token = '6120704146:AAGeRxPNkjHUnaJ7chOLQaEVe1GNBlu602I'  # Replace with your bot's token
 bot = Bot(token=bot_token)
 dp = Dispatcher(bot)
 
